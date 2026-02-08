@@ -79,10 +79,6 @@ git clone https://github.com/jack-rudholph/Kde-Rice-by-jack.git
 
 ---
 
-Made byJack Rudholph ❤️  
-
----
-
 ## 🙏 Credits
 
 - KDE Plasma Team
@@ -93,3 +89,5 @@ Made byJack Rudholph ❤️
 Inspired by the Linux ricing community ❤️
 
 ---
+
+Made byJack Rudholph ❤️  
