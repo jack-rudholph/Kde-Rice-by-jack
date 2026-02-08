@@ -8,6 +8,28 @@ Custom KDE Plasma setup on Arch Linux.
 
 ---
 
+## ⚠️ Before You Install
+
+Make sure you have:
+
+- KDE Plasma installed
+- Latte Dock installed
+- Same themes installed (see Theme Details section)
+- Arch Linux (recommended)
+
+Without the same themes/icons, the rice may look different.
+
+---
+
+## 📥 Required Packages
+
+Install Latte Dock:
+
+```bash
+sudo pacman -S latte-dock
+
+---
+
 ## 🖥️ System Info
 
 - OS: Arch Linux
