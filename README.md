@@ -80,3 +80,16 @@ git clone https://github.com/jack-rudholph/Kde-Rice-by-jack.git
 ---
 
 Made byJack Rudholph ❤️  
+
+---
+
+## 🙏 Credits
+
+- KDE Plasma Team
+- Arch Linux
+- Latte Dock Developers
+- KDE Store Theme Creators
+
+Inspired by the Linux ricing community ❤️
+
+---
