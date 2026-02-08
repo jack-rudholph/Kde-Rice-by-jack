@@ -13,6 +13,18 @@ Custom KDE Plasma setup on Arch Linux.
 
 ---
 
+## 🎨 Theme Details
+
+- Global Theme: Global Theme
+- Plasma Style: Breeze Dark
+- Application Style: Fusion
+- Icon Theme: Papirus-Dark
+- Cursor Theme: Oxygen White
+- Font: Adawita Mono Italic
+- Window Decorations: Oxygen
+
+---
+
 ## 💻 Hardware
 
 - CPU: Intel i5-2450M
