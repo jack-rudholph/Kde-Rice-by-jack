@@ -46,10 +46,10 @@ Custom KDE Plasma setup on Arch Linux.
 
 ## 📦 Installation
 
-1. Download `kde-rice.zip`
-2. Extract it
-3. Copy configs into `~/.config/`
-4. Restart Plasma
+### 1️⃣ Clone the repository
+
+```bash
+git clone https://github.com/jack-rudholph/Kde-Rice-by-jack.git
 
 ---
 
